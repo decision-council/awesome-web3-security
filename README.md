@@ -27,6 +27,7 @@
 - [Solidity Vuln Scanner](https://github.com/Grems247-ZR/solidity-vuln-scanner) - 🆕 Targeted scanner for the 10 most common DeFi bug classes
 - [Foundry](https://github.com/foundry-rs/foundry) - Testing framework
 - [Echidna](https://github.com/crytic/echidna) - Fuzzing by Trail of Bits
+- [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
 ## Educational Resources
 - [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - 681 exploit reproductions
